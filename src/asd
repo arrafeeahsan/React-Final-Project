@@ -1,0 +1,40 @@
+{/*<Router>
+      <Navbar />
+      
+       <Switch>
+         <Route exact path='/' component={Home}> 
+         </Route>
+
+         <Route exact path='/dashboard' component={Dashboard}>
+         </Route>
+         <Route exact path='/client-list' >
+           
+           <ClientList/>
+         </Route>
+         <Route exact path='/registration'>
+           
+             <Registration/>
+           
+         </Route>
+         <Route exact path='/client/update/:id' >
+           <ClientEdit/>
+         </Route>
+         <Route exact path='/client-add' >
+           
+           <ClientAdd/>
+         </Route>
+         <Route exact path='/client-info/:id' >
+           <ClientDetails/>
+         </Route>
+         <Route exact path='/client/delete/:id' >
+           <ClientDelete/>
+         </Route>
+         
+         <Route path='/login'>
+           <div>
+              <Login/>
+           </div>
+         </Route>
+       </Switch>
+       <Footer/> 
+    </Router>*/}
